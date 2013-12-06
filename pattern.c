@@ -1401,6 +1401,10 @@ vg_prefix_context_add_patterns(vg_context_t *vcp,
 			ats = "bitcoin script";
 			bw = "\"3\"";
 			break;
+		case 11:
+			ats = "\"CGB\"";
+			bw = "\"5\"";
+			break;
 		case 111:
 			ats = "testnet";
 			bw = "\"m\" or \"n\"";

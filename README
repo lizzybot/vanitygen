@@ -14,7 +14,7 @@ pre-built Win32 binaries.  At present, vanitygen can be built on Linux,
 and requires the openssl and pcre libraries.
 
 Vanitygen can generate regular bitcoin addresses, namecoin addresses, 
-and testnet addresses.
+testnet addresses, and Cryptogenic Bullion addresses.
 
 Vanitygen can search for exact prefixes or regular expression matches.  
 When searching for exact prefixes, vanitygen will ensure that the 
